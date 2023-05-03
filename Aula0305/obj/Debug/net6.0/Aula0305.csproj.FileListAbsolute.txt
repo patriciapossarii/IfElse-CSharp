@@ -1,0 +1,15 @@
+Z:\Dev2Blu\02-05\Aula0305\Aula0305\obj\Debug\net6.0\Aula0305.csproj.AssemblyReference.cache
+Z:\Dev2Blu\02-05\Aula0305\Aula0305\obj\Debug\net6.0\Aula0305.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Dev2Blu\02-05\Aula0305\Aula0305\obj\Debug\net6.0\Aula0305.AssemblyInfoInputs.cache
+Z:\Dev2Blu\02-05\Aula0305\Aula0305\obj\Debug\net6.0\Aula0305.AssemblyInfo.cs
+Z:\Dev2Blu\02-05\Aula0305\Aula0305\obj\Debug\net6.0\Aula0305.csproj.CoreCompileInputs.cache
+Z:\Dev2Blu\02-05\Aula0305\Aula0305\bin\Debug\net6.0\Aula0305.exe
+Z:\Dev2Blu\02-05\Aula0305\Aula0305\bin\Debug\net6.0\Aula0305.deps.json
+Z:\Dev2Blu\02-05\Aula0305\Aula0305\bin\Debug\net6.0\Aula0305.runtimeconfig.json
+Z:\Dev2Blu\02-05\Aula0305\Aula0305\bin\Debug\net6.0\Aula0305.dll
+Z:\Dev2Blu\02-05\Aula0305\Aula0305\bin\Debug\net6.0\Aula0305.pdb
+Z:\Dev2Blu\02-05\Aula0305\Aula0305\obj\Debug\net6.0\Aula0305.dll
+Z:\Dev2Blu\02-05\Aula0305\Aula0305\obj\Debug\net6.0\refint\Aula0305.dll
+Z:\Dev2Blu\02-05\Aula0305\Aula0305\obj\Debug\net6.0\Aula0305.pdb
+Z:\Dev2Blu\02-05\Aula0305\Aula0305\obj\Debug\net6.0\Aula0305.genruntimeconfig.cache
+Z:\Dev2Blu\02-05\Aula0305\Aula0305\obj\Debug\net6.0\ref\Aula0305.dll
